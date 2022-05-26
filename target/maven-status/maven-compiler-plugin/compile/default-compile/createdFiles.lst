@@ -1,0 +1,7 @@
+br\edu\ifsul\modelo\Formato.class
+br\edu\ifsul\modelo\Catalogo.class
+br\edu\ifsul\modelo\Idioma.class
+br\edu\ifsul\modelo\Livro.class
+br\edu\ifsul\modelo\Autor.class
+br\edu\ifsul\modelo\LivroBasico.class
+br\edu\ifsul\modelo\Livraria.class
