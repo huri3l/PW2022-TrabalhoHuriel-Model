@@ -15,7 +15,7 @@ public class TesteRemoverLivro {
         EntityManager em = emf.createEntityManager();
 
         try {
-            Livro l = em.find(Livro.class, "9788533302276");
+            Livro l = em.find(Livro.class, "9788533302223");
             em.getTransaction().begin();
             em.remove(l);
             em.getTransaction().commit();

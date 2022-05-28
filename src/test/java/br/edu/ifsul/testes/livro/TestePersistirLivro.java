@@ -25,7 +25,7 @@ public class TestePersistirLivro {
         Autor a = em.find(Autor.class, 1);
         
         Livro l = new Livro();
-        l.setISBN("9788533302276");
+        l.setISBN("9788533302223");
         l.setDataPublicacao(Calendar.getInstance());
         l.setEditora("Intrinseca");
         l.setResumo("Misturando ciência, filosofia e tiradas inteligentes e "
